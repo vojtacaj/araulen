@@ -1,2 +1,2 @@
 # araulen
-Minecraft svět ze stavbamy z knihy Hraničářův Učeň
+Minecraft svět se stavbami z knihy Hraničářův Učeň
